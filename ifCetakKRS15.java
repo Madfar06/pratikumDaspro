@@ -14,6 +14,6 @@ public class ifCetakKRS15 {
             System.out.println("silakan cetak KRS dan minta tanda tangan DPA");
            }
            else  {System.out.println("Register di tolak. Silakan lunasi UKT terlebih dahulu.");}
-           scanner.close();
+        
         }
 } 
